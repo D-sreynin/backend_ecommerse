@@ -1,0 +1,15 @@
+.tbrnt{
+    height: 450px;
+    overflow: scroll;
+}
+
+
+.tbrnt .popupedit{
+    position: absolute;
+    top: 290px;
+    background-color: white;
+    left: 38%;
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 10px;
+}
