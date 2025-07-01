@@ -6,7 +6,8 @@ return [
     'allowed_origins' => [
         'http://localhost:5173',
         'http://localhost:3000',
-        'https://frontend-ecommerse-steel.vercel.app'
+        'https://frontend-ecommerse-steel.vercel.app',
+        'https://backendecommerse-production.up.railway.app'
     ],
     'allowed_origins_patterns' => [],
     'allowed_headers' => ['*'],
