@@ -4,7 +4,7 @@ return [
     'paths' => ['api/*', 'sanctum/csrf-cookie'],
     'allowed_methods' => ['*'],
     'allowed_origins' => [
-        'https://front-ecommerce-omega.vercel.app'
+        'https://frontend-ecommerse-steel.vercel.app/'
     ],
     'allowed_origins_patterns' => [],
     'allowed_headers' => ['*'],
